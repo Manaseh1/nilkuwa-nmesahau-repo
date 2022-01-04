@@ -1,3 +1,4 @@
 # Kujikumbusha mazee
 
-KUjikumbusha is reminding yourself in swahili
+Kujikumbusha is reminding yourself in swahili
+I m reminding myself the basics of github
